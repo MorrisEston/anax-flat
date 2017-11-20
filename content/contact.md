@@ -1,4 +1,5 @@
 Contact
 ==============================================
 
-Any questions about this site can be emailed to [Mikael Roos](https://mikaelroos.se) on (mos@dbwebb.se).
+Any questions you have can be emailed to me @ Morris.eston@gmail.com.
+I doubt I will be able to answer them, but it's worth a shot.

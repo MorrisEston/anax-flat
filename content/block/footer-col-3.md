@@ -1,4 +1,5 @@
-####Troubleshoot
+####Byline
 
-* [Gitter Chat](https://gitter.im/mosbth/design)
-* [GitHub Issues](https://github.com/canax/anax-flat/issues)
+Hej!
+Jag är Morris Andersson, skaparen av denna hemsida.
+Hemsidan är skapad genom ramverket Anax-Flat och är en del av design kursen.
