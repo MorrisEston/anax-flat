@@ -20,5 +20,4 @@ This "me-page" will be used in the course *design*.
 Check in often to see the changes I'm working on right now :)
 /Morris
 
-And this is me:
-![me](img/me.jpg)
+[FIGURE src="img/me.jpg" caption="This is me" class="mepic"]
